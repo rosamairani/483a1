@@ -87,7 +87,7 @@ public class problem5 {
 		else
 		{
 			//least = list2.size();
-			while(place1 < list1.size())
+			while(place2 < list2.size())
 			{
 				if (list1.contains(list2.get(place2)))
 				{
