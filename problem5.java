@@ -1,4 +1,4 @@
-package inforetrieval;
+//package inforetrieval;
 
 import java.io.File;
 import java.io.FileNotFoundException;
